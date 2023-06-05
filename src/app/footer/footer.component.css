@@ -1,0 +1,18 @@
+footer {
+    background-color: #25211e;
+    border-top: 6px solid #1d1a18;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 80px;
+    z-index: 98;
+  }
+  footer a {
+    color: #fff;
+    margin-left: 5px;
+    text-decoration: none;
+  }
+
+  

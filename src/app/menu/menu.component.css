@@ -1,0 +1,23 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+  }
+
+  li {
+    margin-right: 10px;
+  }
+
+  li:last-child {
+    margin-right: 0;
+  }
+
+  a {
+    color: #080808;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #cfcfcfcb;
+  }
